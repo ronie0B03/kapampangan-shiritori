@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class UIController : MonoBehaviour
 {
 
-    public GameObject mainMenuScreen, menuOptionsScreen, quitScreen, playerNameScreen, levelSelectionScreen;
+    public GameObject mainMenuScreen, menuOptionsScreen, quitScreen, playerNameScreen, levelSelectionScreen, proceedText;
     public Text playerName;
     public Button confirmPlayerName, easyButton, mediumButton, hardButton, _60Button, _90Button, _120Button, proceedGameButton;
 
@@ -75,6 +75,7 @@ public class UIController : MonoBehaviour
         quitScreen.SetActive(false);
         playerNameScreen.SetActive(false);
         levelSelectionScreen.SetActive(false);
+         proceedText.SetActive(false);
     }
 
     //Level Selection
@@ -113,6 +114,16 @@ public class UIController : MonoBehaviour
             _120Button.interactable = false;
         }
     }
+    
+    // public void backFromLevelSelection(){
 
+    // }
+    
     //Proceed Game
+    public void ProceedGame(){
+        HideAllScreen();
+        proceedText.SetActive(true);
+        Invoke("Start",2f);
+    }
+
 }
