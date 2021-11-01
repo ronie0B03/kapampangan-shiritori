@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 public class UIController : MonoBehaviour
 {
 
@@ -123,7 +124,11 @@ public class UIController : MonoBehaviour
     public void ProceedGame(){
         HideAllScreen();
         proceedText.SetActive(true);
-        Invoke("Start",2f);
+        Invoke("LoadMainGame",2f);
+    }
+
+    private void LoadMainGame(){
+        SceneManager.LoadScene("MainGame");
     }
 
 }
