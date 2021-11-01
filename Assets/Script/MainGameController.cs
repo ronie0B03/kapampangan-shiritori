@@ -11,15 +11,14 @@ public class MainGameController : MonoBehaviour
 
     public Text wordText, errorText, scoreText, aiScoreText;
     public Button checkWorkButton;
-    private string levelSelection;
+    private string levelSelection, playerName;
     private int gameTimeSelection, bonusCounter, score = 0, aiScore = 0;
     // Start is called before the first frame update
     void Start()
     {
         levelSelection = PlayerPrefs.GetString("LevelSelection");
         gameTimeSelection = PlayerPrefs.GetInt("GameTimeSelection");
-        Debug.Log(levelSelection);
-        Debug.Log(gameTimeSelection);
+        playerName = PlayerPrefs.GetString("PlayerName");
     }
 
     // Update is called once per frame
@@ -40,7 +39,6 @@ public class MainGameController : MonoBehaviour
         _wordText = wordText.text.ToString();
         _wordText.ToLower();
 
-
         if(levelSelection == "Easy"){
             if(easyLevel.Contains(_wordText))
             {
@@ -50,7 +48,7 @@ public class MainGameController : MonoBehaviour
                 int wordLength = _wordText.Length;
                 score = (wordLength * bonusCounter)+score;
                 scoreText.text = $"Score: {score.ToString()}";
-                errorText.text = $"{errorText.text}\n\n Player: {_wordText}";
+                errorText.text = $"{errorText.text}\n\n {playerName}: {_wordText}";
                 AIChooseLevel();
             }
             else if(mediumLevel.Contains(_wordText)){
@@ -60,7 +58,7 @@ public class MainGameController : MonoBehaviour
                 int wordLength = _wordText.Length;
                 score = (wordLength * bonusCounter)+score;
                 scoreText.text = $"Score: {score.ToString()}";
-                errorText.text = $"{errorText.text}\n\n Player: {_wordText}";
+                errorText.text = $"{errorText.text}\n\n {playerName}: {_wordText}";
                 AIChooseLevel();
             }
             else if(hardLevel.Contains(_wordText)){
@@ -70,7 +68,7 @@ public class MainGameController : MonoBehaviour
                 int wordLength = _wordText.Length;
                 score = (wordLength * bonusCounter)+score;
                 scoreText.text = $"Score: {score.ToString()}";
-                errorText.text = $"{errorText.text}\n\n Player: {_wordText}";
+                errorText.text = $"{errorText.text}\n\n {playerName}: {_wordText}";
                 AIChooseLevel();
             }
             else{

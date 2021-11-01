@@ -51,6 +51,7 @@ public class UIController : MonoBehaviour
 
     public void ConfirmPlayerName(){
         string _playerName = playerName.text.ToString();
+        Debug.Log(_playerName);
         PlayerPrefs.SetString("PlayerName",_playerName);
         HideAllScreen();
         levelSelectionScreen.SetActive(true);
