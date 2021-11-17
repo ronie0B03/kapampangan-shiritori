@@ -26,6 +26,7 @@ public class LearnKapampanganController : MonoBehaviour
     }
 
     public void nextWord(){
+        int _length = title.Length-1;
         int i = Random.Range(0, title.Length);
         textTitle.text = title[i].ToString();
         textNoun.text = noun[i].ToString();

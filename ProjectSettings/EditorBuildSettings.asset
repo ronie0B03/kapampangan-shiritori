@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainGame.unity
     guid: 025778382fc209c498d8ac5b020f2ecd
+  - enabled: 1
+    path: Assets/Scenes/LearnKapampangan.unity
+    guid: 7865e292245dde04c9aa8baaff5705bc
   m_configObjects: {}

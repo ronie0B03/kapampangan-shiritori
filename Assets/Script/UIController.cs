@@ -132,4 +132,14 @@ public class UIController : MonoBehaviour
         SceneManager.LoadScene("MainGame");
     }
 
+    public void ProceedLearnShitori(){
+        HideAllScreen();
+        proceedText.SetActive(true);
+        Invoke("LoadLearnShitori",2f);
+    }
+
+    private void LoadLearnShitori(){
+        SceneManager.LoadScene("LearnKapampangan");
+    }
+
 }
