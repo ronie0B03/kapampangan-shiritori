@@ -123,6 +123,86 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &168236173
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 168236174}
+  - component: {fileID: 168236176}
+  - component: {fileID: 168236175}
+  m_Layer: 5
+  m_Name: qualifier
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &168236174
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 168236173}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1997622878}
+  m_Father: {fileID: 1893032366}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -213.54994, y: -863.2}
+  m_SizeDelta: {x: -508.90012, y: 66.4}
+  m_Pivot: {x: 0.5, y: 1}
+--- !u!114 &168236175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 168236173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.7075472, g: 0.48393556, b: 0.48393556, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: df5755d8d37cafc47a6418d3314ad88d, type: 3}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 2
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 'qualifier: '
+--- !u!222 &168236176
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 168236173}
+  m_CullTransparentMesh: 1
 --- !u!1 &242770372
 GameObject:
   m_ObjectHideFlags: 0
@@ -157,8 +237,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 285.49994, y: 0}
-  m_SizeDelta: {x: 245.6001, y: 80.0065}
+  m_AnchoredPosition: {x: 245.055, y: -38.6}
+  m_SizeDelta: {x: 326.49, y: 156.3}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &242770374
 MonoBehaviour:
@@ -236,8 +316,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -9.38501, y: -218.02002}
-  m_SizeDelta: {x: -214.23001, y: 93}
+  m_AnchoredPosition: {x: -9.200005, y: -165}
+  m_SizeDelta: {x: -214.6, y: 93}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &338241850
 MonoBehaviour:
@@ -398,8 +478,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 281.55002, y: 0}
-  m_SizeDelta: {x: 112.49997, y: 80.0065}
+  m_AnchoredPosition: {x: 205.91504, y: -40.3}
+  m_SizeDelta: {x: 263.77008, y: 141.9}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &641059713
 MonoBehaviour:
@@ -482,6 +562,36 @@ MonoBehaviour:
   - Akbung
   - Abyas
   - Gatal
+  - Aklat
+  - Akmul
+  - Aku
+  - Agkat
+  - Agus
+  - Aus
+  - Albe
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   noun:
   - friend, companion {used as a term of address}, kayabe 'companion'
@@ -495,6 +605,36 @@ MonoBehaviour:
   - " milled rice. maga:qabyas \u2018rice dealer' [bigasera-from Tagalog, is also
     used]."
   - none
+  - book
+  - "akmulan \u2018throat\u2019"
+  - "(Substitute: personal pronoun) \u2018I\u2019."
+  - "pa:managkat \u2018manner of inviting\u2019. "
+  - current.
+  - none
+  - "man-albe \u2018watch\u2019. "
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   verb:
   - makiyabe 'accompany'; mi-yabeyabe ' live together, stay together'
@@ -507,6 +647,36 @@ MonoBehaviour:
   - none
   - none
   - ma:nggatal
+  - none
+  - "an \u2018swallow something\u2019; in-\u2018be swallowed\u2019"
+  - none
+  - summon, invite, signal. man-, -an, pa-, pan-.
+  - "mamagus, minagus \u2018flow\u2019. papa-agus-an \u2018cause to flow\u2019. "
+  - none
+  - none
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   adjective:
   - none
@@ -520,6 +690,77 @@ MonoBehaviour:
   - none
   - "magatal \u201Citchy'. megatal, pekamagatal, kagatalan."
   - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  qual:
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   pron:
   - A'be
   - A'but
@@ -530,11 +771,42 @@ MonoBehaviour:
   - Akbu'ng
   - Abya's
   - Gata'l
+  - "akla\u2019t "
+  - "akmu\u2019l"
+  - "a\u2019ku "
+  - "agka\u2019t"
+  - "a\u2019gus "
+  - "a\u2019us "
+  - "albe\u2019"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   textTitle: {fileID: 338241850}
   textNoun: {fileID: 242770374}
   textVerb: {fileID: 1847832754}
   textAdjective: {fileID: 641059713}
+  textQual: {fileID: 1997622880}
   textPron: {fileID: 970530506}
 --- !u!4 &741924890
 Transform:
@@ -581,7 +853,7 @@ RectTransform:
   m_Children:
   - {fileID: 970530505}
   m_Father: {fileID: 1893032366}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -797,7 +1069,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -254.33202, y: -499.23}
+  m_AnchoredPosition: {x: -254.33202, y: -475.25}
   m_SizeDelta: {x: -565.13605, y: 80.0065}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &875066243
@@ -874,7 +1146,7 @@ RectTransform:
   m_Children:
   - {fileID: 1930416348}
   m_Father: {fileID: 1893032366}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
@@ -1236,7 +1508,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -247.33195, y: -316.2}
+  m_AnchoredPosition: {x: -247.33195, y: -251.2}
   m_SizeDelta: {x: -551.1361, y: 80.0065}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1808067544
@@ -1316,7 +1588,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -214.13202, y: -759.4}
+  m_AnchoredPosition: {x: -214.13202, y: -682.7}
   m_SizeDelta: {x: -484.73596, y: 80.0065}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1822693286
@@ -1395,8 +1667,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 287.79996, y: 0}
-  m_SizeDelta: {x: 269.79993, y: 80.0065}
+  m_AnchoredPosition: {x: 247.8, y: -37.5}
+  m_SizeDelta: {x: 349.80002, y: 148.3}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1847832754
 MonoBehaviour:
@@ -1538,6 +1810,7 @@ RectTransform:
   - {fileID: 1808067543}
   - {fileID: 875066242}
   - {fileID: 1822693285}
+  - {fileID: 168236174}
   - {fileID: 827308607}
   - {fileID: 947167311}
   m_Father: {fileID: 0}
@@ -1627,6 +1900,85 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1930416347}
   m_CullTransparentMesh: 1
+--- !u!1 &1997622877
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1997622878}
+  - component: {fileID: 1997622879}
+  - component: {fileID: 1997622880}
+  m_Layer: 5
+  m_Name: qualtext
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1997622878
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1997622877}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 168236174}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 210.43, y: -39.9}
+  m_SizeDelta: {x: 304.33997, y: 119.4}
+  m_Pivot: {x: 0.5, y: 1}
+--- !u!222 &1997622879
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1997622877}
+  m_CullTransparentMesh: 1
+--- !u!114 &1997622880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1997622877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: df5755d8d37cafc47a6418d3314ad88d, type: 3}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 1
+    m_LineSpacing: 1
+  m_Text: Title here
 --- !u!1 &2092140067
 GameObject:
   m_ObjectHideFlags: 0
