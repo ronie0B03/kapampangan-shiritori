@@ -10,9 +10,10 @@ public class LearnKapampanganController : MonoBehaviour
     public string[] noun = {};
     public string[] verb = {};
     public string[] adjective = {};
+    public string[] qual = { };
     public string[] pron = {};
 
-    public Text textTitle, textNoun, textVerb, textAdjective, textPron;
+    public Text textTitle, textNoun, textVerb, textAdjective, textQual, textPron;
     // Start is called before the first frame update
     void Start()
     {
@@ -32,6 +33,7 @@ public class LearnKapampanganController : MonoBehaviour
         textNoun.text = noun[i].ToString();
         textVerb.text = verb[i].ToString();
         textAdjective.text = adjective[i].ToString();
+        textQual.text = qual[i].ToString();
         textPron.text = pron[i].ToString();
     }
 
