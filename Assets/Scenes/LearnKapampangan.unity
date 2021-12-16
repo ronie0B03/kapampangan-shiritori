@@ -237,8 +237,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 245.055, y: -38.6}
-  m_SizeDelta: {x: 326.49, y: 156.3}
+  m_AnchoredPosition: {x: 253.705, y: -38.6}
+  m_SizeDelta: {x: 343.79, y: 156.3}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &242770374
 MonoBehaviour:
@@ -478,8 +478,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 205.91504, y: -40.3}
-  m_SizeDelta: {x: 263.77008, y: 141.9}
+  m_AnchoredPosition: {x: 223.115, y: -40.3}
+  m_SizeDelta: {x: 298.17, y: 140.41}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &641059713
 MonoBehaviour:
@@ -569,27 +569,77 @@ MonoBehaviour:
   - Agus
   - Aus
   - Albe
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Bain-tau
+  - Balasenas
+  - Balatong
+  - Baldugan
+  - Balugbug
+  - Banayad
+  - Bulugan
+  - Kaladwa
+  - Kalamunding
+  - Kaluguran
+  - Kamamalu
+  - Kamangyang
+  - Kamacili
+  - Kapitangangbengi
+  - ' Kaputul '
+  - Kasapwego
+  - Kasiping-bale
+  - Kayaldawanan
+  - Kayapan
+  - Keraklan
+  - Kudkuran
+  - Dalyawat
+  - Damulag
+  - Damusak
+  - Dapukanan
+  - Daratang
+  - Dinalan
+  - Direcu/Darecu
+  - Dungus
+  - Ganing-aldo
+  - Gatpanapun
+  - Gagawan
+  - Giligit
+  - Qabsi
+  - Qimu
+  - Qukyat
+  - Qurud
+  - Quyab
+  - Lamaran
+  - Luklukan
+  - Makananu
+  - Manintun
+  - Makadwa
+  - Mumuna
+  - Malyari
+  - Manandaman
+  - Manisip
+  - Mangisnawa
+  - Pabalikan
+  - Pabanglu
+  - Pabiblas
+  - Paburen
+  - Pakakalale
+  - Pakyapusan
+  - Paglapakan
+  - Pagmayumu
+  - Paqinawa
+  - Panagkas
+  - Panupaya
+  - Pangalata
+  - Paunakan
+  - Pangutang
+  - Penandit
+  - Pepalto
+  - Pinuman
+  - Pisamban
+  - Sumangid
+  - Talungku
+  - Talusad
+  - Tampaling
+  - Tegawan
   - 
   - 
   - 
@@ -612,27 +662,82 @@ MonoBehaviour:
   - current.
   - none
   - "man-albe \u2018watch\u2019. "
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - "bachelor, unmarried male [also used of young male carabao]. mamayintau \u2018one
+    who is being a bachelor."
+  - eggplant. [metaphor] penis.
+  - mongo bean
+  - "a lending system, called \u2018five-six\u2019; 20% interest, payment daily."
+  - ear(s); bottom of the macopa fruit.
+  - Descriptive - slow (speech) (speed, e.g. in driving).
+  - stud
+  - soul.
+  - calamansi, a citrus fruit
+  - "ka:luguran \u2018friend\u2019; kalugura\u2019n \u2018sweetheart\u2019."
+  - a deadly snake, black or maroon in color (cobra?).
+  - string beans
+  - a kind of edible plant (pepper?).
+  - midnight.
+  - "[metaphor] \u2018sibling\u2019. [lit.] \u2018companion in being cut\u2019; see
+    putul"
+  - matches, matchbox.
+  - neighbour
+  - "anniversary, birthday; see aldo\u2019."
+  - goodness; see mayap, qapqap, kumayap.
+  - none
+  - a small hand-tool used for scraping the soft meat from young coconuts.
+  - pimple(s).
+  - "carabao. [metaphor] \u2018ill-tempered, harsh person\u2019."
+  - step on. a:damusak.
+  - NONE
+  - NONE
+  - one hundred
+  - "direcu \u2018betting on one number\u2019"
+  - intestines, stomach.
+  - dawn, early in the morning.
+  - afternoon.
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - pa:manukyat.
+  - NONE
+  - NONE
+  - NONE
+  - "luklukan \u2018seat, place to sit. pa:maglukluk \u2018sitting\u2019"
+  - NONE
+  - NONE
+  - NONE
+  - '- first, go first, be first. muna, mumuna, minuna, munamuna, inunahan, pemuqunan.'
+  - NONE
+  - NONE
+  - "- pa:manisip; kaisip \u2018one who thinks the same\u2019; pa:misip \u2018mind\u2019;
+    kaisipan."
+  - NONE
+  - NONE
+  - perfume; see banglu, mabanglu.
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - sugar-solution preservative.
+  - NONE
+  - something used to irritate; grating words.
+  - "kapanupayan \u2018apology, pardon\u2019."
+  - NONE
+  - niece, nephew
+  - question
+  - NONE
+  - '- a kind of sweet, made of rice balls with sugar and coconut; boiled, then it
+    floats.'
+  - water jar (drinking water); see inum, inuman
+  - church
+  - '- across, opposite, next one over, next one parallel; see kanatba. ke-sumangid,
+    sumangid dalan, misisu-mangid.'
+  - NONE
+  - NONE
+  - NONE
+  - "godfather, sponsor, \u201Cninong\u201D."
   - 
   - 
   - 
@@ -654,27 +759,83 @@ MonoBehaviour:
   - "mamagus, minagus \u2018flow\u2019. papa-agus-an \u2018cause to flow\u2019. "
   - none
   - none
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - none
+  - "mamalase\u2019nas [with the metaphorical sense]"
+  - none
+  - mamaldug.
+  - "balugbuga\u2019n \u2018hit in the ear\u2019."
+  - "banayaran, benayaran \u2018reduce speech\u2019; magbanayad \u2018decelerate\u2019."
+  - none
+  - mangaladuwa
+  - none
+  - "kalugura\u2019n \u2018love someone\u2019; see lugu\u2019d."
+  - none
+  - none
+  - none
+  - "mengapitangang-bengi \u2018stayed up until midnight\u2019"
+  - none
+  - none
+  - none
+  - none
+  - "kayap, kumayap \u2018get well, recover\u2019; mangayap; makakayap; pa:kayap;
+    pa:kayapan; a:pakayap."
+  - none
+  - "kudkura\u2019n \u2018scrape (a coconut), scratch (hair, i.e. head)\u2019."
+  - none
+  - none
+  - step on. a:damusak.
+  - "dinapuk \u2018put inside\u2019. makapandapuk, pakidapuk, pa:dapuk, pandapuk."
+  - arrive, come. daratang, dinatang/dintang, mipa:ratang, ke:ratangan, manyatang,
+    karatangratang, kararatangan.
+  - NONE
+  - "- direcuan \u2018say/do something directly\u2019, magdirecu \u2018go straight,
+    straighten up\u2019. pakidirecu, pa:direcu, pa:direcuan, pa:narecwan, a:direcu,
+    idarecu, midirecu."
+  - "dungusan \u2018hit in\u2026\u2019, pakidungus"
+  - NONE
+  - NONE
+  - "gawaq, gagawan, ma:ngawaq; ginawaq, gewa, mengawaq; gumawaq, gawan, mangawaq;
+    makagawaq; pa:gawaq; igawaq \u2018make something for someone\u2019."
+  - "ma:nggiligit \u2018trembling internally, tense with anger\u2019. pa:nggiligita\u2019n."
+  - magpakabsiq, mangabsiq, mabsiq, pakakabsiq, pekakabsiq, kasingkabsiq.
+  - wash face. manqimuq/manimuq, imwan
+  - '- climb, ascend. mukyat, manqukyat, pa:qukyat, a:yukyat, iqukyat, pakiqukyat,
+    pa:nukyatan, pa:ukyatan, miyukyat.'
+  - '- hair-cut. ma:nqurud, inqurud, pa:qurud, ururan, pa:qururan.'
+  - yawn, belch (?). ma:nquyab/ma:nuyab.
+  - "maglamaran \u2018stuff oneself greedily\u2019."
+  - NONE
+  - NONE
+  - look for. panintunan.
+  - NONE
+  - '- first, go first, be first. muna, mumuna, minuna, munamuna, inunahan, pemuqunan.'
+  - can be, possible.
+  - NONE
+  - NONE
+  - breathing
+  - "return something; see ba\u2019lik"
+  - NONE
+  - have someone dressed
+  - '[special] permit, tolerate, neglect, forget. pepaburen, a:paburen'
+  - be very careful; see kalale, alale
+  - imitate someone; see kyapus.
+  - break up
+  - NONE
+  - rest yourself.
+  - something used to irritate; grating words.
+  - forgive, tolerate.
+  - notice
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - sitting or squatting on the floor with hands holding knees. makatalungkuq, mipagtalungkuq
+  - slip, slide. mitalusad.
+  - "ta:mpaling \u2018slap face\u2019. timpaling, tampalingan."
+  - NONE
   - 
   - 
   - 
@@ -696,30 +857,80 @@ MonoBehaviour:
   - none
   - none
   - none
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
   qual:
   - none
   - none
@@ -737,30 +948,80 @@ MonoBehaviour:
   - none
   - none
   - none
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - usually.
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - " how, in what manner. Makananu reng gamitan? \u2018How are those used?\u2019."
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - '- in a moment, momentarily.'
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
+  - none
   pron:
   - A'be
   - A'but
@@ -778,27 +1039,77 @@ MonoBehaviour:
   - "a\u2019gus "
   - "a\u2019us "
   - "albe\u2019"
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - "bain-ta\u2019u"
+  - "balase\u2019nas"
+  - "bala\u2019tong"
+  - baldu'gan
+  - "balugbu\u2019g"
+  - "bana\u2019yad"
+  - "bulu\u2019gan"
+  - "kaladu(w)a\u2019"
+  - "kalamu\u2019nding"
+  - "kaluguran (ka:luguran) (kalugura\u2019n)"
+  - "kama\u2019maluq"
+  - "kamangya\u2019ng"
+  - "kamaci\u2019li"
+  - kapitangangbengi
+  - "kapu\u2019tul"
+  - "kasapwe\u2019go"
+  - "kasi\u2019ping-bale\u2019"
+  - " kayaldawa\u2019nan"
+  - kayapan
+  - "kera\u2019klan"
+  - "kudku\u2019ran"
+  - "dalya\u2019wat"
+  - "damu\u2019lag"
+  - "damu\u2019sak"
+  - "dapuk\u2019anan"
+  - "dara\u2019tang"
+  - "dina\u2019lan"
+  - "dire\u2019cu/ dare\u2019cu"
+  - "du\u2019ngus"
+  - "gani\u2019ng-aldo\u2019"
+  - "gatpana\u2019pun"
+  - "gagawan\u2019"
+  - "giligi\u2019t"
+  - "qabsi\u2019q/ absi\u2019q"
+  - "qimu\u2019q"
+  - qukyat
+  - "quru\u2019d"
+  - "qu\u2019yab"
+  - lamaran
+  - "luklu\u2019kan"
+  - "makana\u2019nu"
+  - "mani\u2019ntun"
+  - "makadwa\u2019q"
+  - "mumuna\u2019"
+  - "malya\u2019ri"
+  - "manamda\u2019man"
+  - "mani\u2019sip"
+  - "mangisna\u2019wa"
+  - "pabali\u2019kan"
+  - "pabanglu\u2019"
+  - pabiblas
+  - paburen
+  - "pakakala\u2019le"
+  - "pakyapu\u2019san"
+  - "paglapa\u2019kan"
+  - "pagmayumu\u2019"
+  - "paqina\u2019wa"
+  - "panagka\u2019s"
+  - "panupa\u2019ya"
+  - "pangalata\u2019q"
+  - paunakan
+  - pa:ngutang
+  - " pena\u2019ndit"
+  - pepalto
+  - " pinu\u2019man"
+  - "pisa\u2019mban"
+  - "suma\u2019ngid"
+  - "talungku\u2019q"
+  - "talu\u2019sad"
+  - tampaling
+  - "Tega\u2019wan"
   - 
   - 
   - 
@@ -1069,7 +1380,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -254.33202, y: -475.25}
+  m_AnchoredPosition: {x: -254.33202, y: -465.9}
   m_SizeDelta: {x: -565.13605, y: 80.0065}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &875066243
@@ -1508,7 +1819,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -247.33195, y: -251.2}
+  m_AnchoredPosition: {x: -247.33195, y: -239.8}
   m_SizeDelta: {x: -551.1361, y: 80.0065}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1808067544
@@ -1667,8 +1978,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 247.8, y: -37.5}
-  m_SizeDelta: {x: 349.80002, y: 148.3}
+  m_AnchoredPosition: {x: 256.93005, y: -37.5}
+  m_SizeDelta: {x: 368.05994, y: 148.3}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1847832754
 MonoBehaviour:
