@@ -640,8 +640,268 @@ MonoBehaviour:
   - Talusad
   - Tampaling
   - Tegawan
-  - 
-  - 
+  - Albug
+  - Ali
+  - Api
+  - Apu
+  - Are
+  - Aru
+  - Asbuk
+  - Aslam
+  - Awa
+  - Atcu
+  - Bage
+  - Baguk
+  - Bagyu
+  - Bale
+  - Bagyu
+  - Bapa
+  - Bibi
+  - Bwak
+  - Kaba
+  - Karin
+  - Karug
+  - Kawe
+  - Keta
+  - Keti
+  - Kuku
+  - Dakit
+  - Dalan
+  - Dame
+  - Dara
+  - Dase
+  - Datang
+  - Dine
+  - Duku
+  - Dura
+  - Ebun
+  - Eran
+  - Gabun
+  - Gamat
+  - Gamus
+  - Gana
+  - Gulut
+  - Ibye
+  - Ikami
+  - Ikit
+  - Igpit
+  - Ila
+  - Ini
+  - Ing
+  - Ipan
+  - Ipas
+  - Ipe
+  - Lako
+  - Laga
+  - Lage
+  - Lango
+  - Lapad
+  - Laso
+  - Lawut
+  - Lawe
+  - Laya
+  - Lele
+  - Libi
+  - Lub
+  - Lunus
+  - Lupa
+  - Mal
+  - Muli
+  - Nanan
+  - Nandin
+  - Napun
+  - Ninu
+  - Panas
+  - Sali
+  - "Pasbul\t"
+  - Paspas
+  - Patda
+  - Pate
+  - Pulai
+  - Putut
+  - Pusan
+  - Sabo
+  - Salat
+  - Silo
+  - Sulu
+  - Sulud
+  - Suldut
+  - Suput
+  - Sulung
+  - Sunlag
+  - Swam
+  - Tipa
+  - Tipun
+  - Ugse
+  - Wa
+  - Wanan
+  - Abukadu
+  - Abugadu
+  - Abusadu
+  - Alikabuk
+  - Alimpuyuq
+  - Alistu
+  - Amanu
+  - Ambun
+  - Amuk
+  - Angga
+  - Angin
+  - ' Apulu'
+  - Arung
+  - Asan
+  - Aspak
+  - Atad
+  - Awang
+  - Bakle
+  - Bage
+  - Balag
+  - Balen
+  - Banwa
+  - Banglu
+  - Bangnas
+  - Bayat
+  - 'Bitis '
+  - 'Bulan '
+  - Buldit
+  - Buluk
+  - Bulung
+  - Bulyo
+  - Buntuk
+  - 'Burak '
+  - Busbus
+  - Butul
+  - Kabasa
+  - Kaklak
+  - Kadwa
+  - Kalale
+  - Kalame
+  - Kalampag
+  - Kalang
+  - Kalbag
+  - Kalulu
+  - Kandut
+  - Kanuwan
+  - Kanyan
+  - Kapamu
+  - Kapatad
+  - Kapilan
+  - Kapitna
+  - Karen
+  - Kasaman
+  - Kasat
+  - Kawani
+  - Kayas
+  - Kaymitu
+  - Kilik
+  - Kirat
+  - Kiyak
+  - Kulap
+  - Kurap
+  - Dakal
+  - 'Dakap '
+  - Dagis
+  - Dagul
+  - Dakitan
+  - Dalas
+  - Dalit
+  - Damdam/Dimdam
+  - Danup
+  - Dapat
+  - Dapuk
+  - Darak
+  - Dikut
+  - Dimla
+  - Disoras
+  - Ditak
+  - Duldul
+  - Duluk
+  - Durut
+  - Dutung
+  - Gambul
+  - Gandus
+  - 'Gaslo '
+  - Gatal
+  - Gawan
+  - Gayak
+  - Gigit
+  - Ginu
+  - Gosu
+  - Gulis
+  - Guyud
+  - Ibat
+  - Indam
+  - Inyad
+  - Istung/Ustung
+  - Labul
+  - Labung
+  - Laklak
+  - Lalam
+  - Lalbug/Albug/Kalbug
+  - Lambis
+  - Lantik
+  - Lapirut
+  - Ligligan
+  - Lilyu
+  - Lukluk
+  - Luksu
+  - Lugal
+  - Lulut
+  - Lupisak
+  - Mako
+  - Manaya
+  - Maneu
+  - Manyad
+  - Marangle
+  - Maplas
+  - Mitdas
+  - Nukarin
+  - Numanu
+  - Nung
+  - Obat
+  - Oneng
+  - Pabalu
+  - Pakanan
+  - Pakit
+  - Pagal
+  - Palung
+  - Palub
+  - Pamepe
+  - Panayan
+  - Paninap
+  - Panintun
+  - Panulu
+  - Pasalwan
+  - Patipati
+  - Patlud
+  - Pawas
+  - Pesus
+  - Piblas
+  - Pisabi
+  - Pitna
+  - Sabat/Sabatan
+  - Sabla
+  - Sablayan
+  - Sakab
+  - Sagapan
+  - Salikut
+  - Sambut
+  - Samul
+  - Santing
+  - Sepal
+  - Sapung
+  - Sibad
+  - Sikan
+  - Single
+  - Singo
+  - Siping
+  - Sisilim
+  - Sopan
+  - Sukad
+  - Sulapo
+  - Takman
+  - Tadtad
+  - Tagumpe
+  - Talakad
   - 
   noun:
   - friend, companion {used as a term of address}, kayabe 'companion'
@@ -738,8 +998,293 @@ MonoBehaviour:
   - NONE
   - NONE
   - "godfather, sponsor, \u201Cninong\u201D."
-  - 
-  - 
+  - "flood. maki-a\u2019lbug. "
+  - NONE
+  - 'fire, flame, spark. '
+  - "grandparent, especially grandmother. As a term of address, apu is used for grandfather
+    and grandmother; as a term of reference, usually it is restricted to grandmother,
+    with ingkong being used for grandfather. With saints\u2019 names, as: Apu Lusya
+    \u2018Saint Lucy\u2019. "
+  - '-  hay, usually rice straw.'
+  - "something like \u2018Wow!\u2019"
+  - mouth.
+  - vinegar.
+  - NONE
+  - NONE
+  - "thing, object, affair. bage-ba\u2019ge \u2018small things, details\u2019"
+  - fermented foods.
+  - "tropical storm, typhoon. pabagyu \u2018a showoff\u2019. "
+  - "house. makibale\u2019 \u2018house owner, housewife\u2019; kasi\u2019ping-bale\u2019
+    \u2018neighbor\u2019; balebalayan \u2018play-house\u2019."
+  - "wealth, possessions. mikibandi \u2018owner\u2019; ingat-bandi \u2018treasurer\u2019;
+    pibandian \u2018possessions\u2019."
+  - 'uncle. '
+  - "duck; see pa\u2019to."
+  - "hair. bwakbwakan/bwakbwakin \u2018hair on arms or forehead\u2019"
+  - 'length. '
+  - "location \u2018there (far)\u2019."
+  - makarug.
+  - pa:mangawe
+  - NONE
+  - NONE
+  - "toe and fingernails. pekakuku \u2019artificial fingernail."
+  - NONE
+  - 'road, way, passage. '
+  - "kadamayan \u2018one you sympathize with\u2019. "
+  - aunt; stepmother.
+  - '- woven mat, used for sleeping, old ones are used for drying rice, etc.'
+  - arrive, come. daratang, dinatang/dintang, mipa:ratang, ke:ratangan, manyatang,
+    karatangratang, kararatangan.
+  - "kamarinayan \u2018shame, shyness\u2019"
+  - NONE
+  - 'spit, saliva. '
+  - 'egg; [plural: e:bun (?)].'
+  - ladder, stairs.
+  - earth; soil, dirt
+  - hand [sometimes used to mean lower arm in general]. papaggamatan.
+  - "pangamus \u2018rake\u2019"
+  - 'appetite. '
+  - back (person, hand, house). kagulutan, pa:manggulut.
+  - NONE
+  - NONE
+  - NONE
+  - "pa:manigpit; igpitan \u2018a special enclosure in fishponds (stage after the
+    biyayan nursery)\u2019."
+  - NONE
+  - 'they, ing-case; short: la. '
+  - 'singular, marks topic or emphasized noun phrase. '
+  - "tooth. pisti\u2019song i\u2019pan \u2018filed teeth\u2019"
+  - cockroach.
+  - measles
+  - "pa:kalako \u2018instrument to remove\u2019. "
+  - NONE
+  - "maglalage \u2018spirit(s), apparition; see lagayan. pa:maglage \u2018appearance\u2019."
+  - housefly.
+  - width
+  - pa:manlaso.
+  - "malaut \u2018far\u2019. makalaut."
+  - NONE
+  - 'ginger. '
+  - 'border, edge, side. '
+  - "malibi \u2018lustful, lascivious\u2019. [an improper word]. "
+  - "inside, the interior of something; one\u2019s soul, mind, feelings, sentiment,
+    etc. work\u2013something to go in to do. kaluban \u2018holster, sheath\u2019. "
+  - "malulunus \u2018pity someone\u2019. melunus. "
+  - "face. kalupa \u2018look like (one with same face as another)\u2019; milupa \u2018similar,
+    same\u2019."
+  - 'expensive, dear, valuable. '
+  - NONE
+  - NONE
+  - a while ago.
+  - "yesterday. na\u2018pusabe\u2019ngi \u2018night before last\u2019."
+  - NONE
+  - "ant. panas-jip, panas-koce \u2018jack (tool for raising a vehicle)\u2019."
+  - NONE
+  - door, gate
+  - NONE
+  - NONE
+  - mipate, mipapate.
+  - NONE
+  - NONE
+  - "pusanan \u2018a carrying-event\u2019. "
+  - "soup, juice, sauce. sabo-byas \u2018white-ish water which results from washing
+    abyas\u2019. "
+  - NONE
+  - NONE
+  - torch, light.
+  - NONE
+  - bedbug (s).
+  - 'paper bag. '
+  - NONE
+  - NONE
+  - "swam mais \u2018mixed vegetable dish with corn\u2019."
+  - NONE
+  - "pititipunan \u2018depot\u2019; pamitipuntipun"
+  - NONE
+  - Yes.
+  - right side.
+  - avocado (a fruit).
+  - lawyer.
+  - one who takes unfair advantage; ka- -an, kapana-.
+  - dust.
+  - "mole. pekaqalimpuyuq \u2018imitation mole\u2019."
+  - "a person who acts skillfully, lively. pangaqalistu \u2018acting skillfully\u2019."
+  - word, language, speech
+  - dew.
+  - mosquito.
+  - "angganan \u2018boundary\u2019."
+  - wind.
+  - "Number \u2013 ten."
+  - nose
+  - 1. fish. 2. viand, i.e., food eaten with rice.
+  - crack.
+  - "pamatad-oras \u2018pastime\u2019."
+  - window.
+  - "yoke. makabakle \u2018warp, or woof, in weaving\u2019."
+  - "thing, object, affair. bage-ba\u2019ge \u2018small things, details\u2019."
+  - NONE
+  - "town. kabalen \u2018townmate\u2019; kabalenan \u2018the town proper\u2019; me:malen
+    \u2018the townspeople\u2019; mibalenbalen \u2018related to each other as from
+    the same town\u2019"
+  - "year; sky; heaven. pabanwa \u2018a whole year, first year\u2019."
+  - NONE
+  - NONE
+  - weight
+  - foot, feet.
+  - moon; month.
+  - buttocks; rear of a bus or truck.
+  - NONENONE
+  - leaf; page of a book.
+  - NONE
+  - "head. [metaphor] \u2018chief, front of truck\u2019."
+  - " mud. bu\u2019rak-biti\u2019s \u2018farmer [derogatory]\u2019; bura\u2019kan
+    \u2018a muddy place\u2019; pipagburakan \u2018wallowing hole\u2019."
+  - "hole. busbus ipan \u2018cavity\u2019; busbus arung \u2018nostril\u2019; busbus
+    butunis \u2018button hole\u2019."
+  - "seed, stone, bone. pangabutul \u2018size of seed\u2019; utak ning butul \u2018bone
+    marrow\u2019."
+  - "acquaintance; see ba\u2019sa."
+  - NONE
+  - second.
+  - NONE
+  - sweets, dessert.
+  - tapping noise.
+  - "stove, place where the cooking fire is kept. kala\u2019ng-u\u2019ling \u2018charcoal
+    stove\u2019; pagkalangan \u2018cooking place\u2019; pekakalang \u2018stones which
+    hold pot over the fire\u2019."
+  - swelling, lump.
+  - a poor person.
+  - NONE
+  - forehead, skull
+  - NONE
+  - NONE
+  - "sibling. mikapatad, mikakapatad; kinakapatad \u2018baptismal brother\u2019;
+    kapataran \u2018brotherhood\u2019."
+  - NONE
+  - ' half'
+  - NONE
+  - NONE
+  - tantrum.
+  - NONE
+  - NONE
+  - star-apple (a fruit).
+  - pa:mangilik.
+  - "ki\u2019rat \u2018slanted eyes\u2019."
+  - NONE
+  - NONE
+  - NONE
+  - many, much. marakal, merakal, pekamarakal, kasing-dakal.
+  - NONE
+  - "rat(s). dagi\u2019s-bale\u2019, dagi\u2019s-pa\u2019le. dagisdagi\u2019san =
+    tigsang dagis \u2018a lump in flesh caused by a sharp blow\u2019."
+  - "karagulan \u2018bigness\u2019; pa:magparagul \u2018raising (children)\u2019."
+  - NONE
+  - NONE
+  - chant, song. pa:mandalit.
+  - "panamdam \u2018feelings\u2019. "
+  - "hunger. makidanup \u2018starvation\u2019."
+  - "karapatan \u2018rights, duties, obligations\u2019."
+  - NONE
+  - "rice-bran. dara\u2019k-mai\u2019s, dara\u2019k ko\u2019nu."
+  - grass.
+  - cold, coolness.
+  - NONE
+  - a daquiri-like drink made of rum, 7-up, and pineapple juice.
+  - thunder.
+  - NONE
+  - "whirlpool, vortex. pidurutan \u2018crank\u2019."
+  - tree, lumber, wood.
+  - NONE
+  - gabi plant. gandusgandus, gandusgandusan.
+  - NONE
+  - NONE
+  - NONE
+  - "kagayak \u2018one decorated the same\u2019, pa:mangayak."
+  - NONE
+  - "sir, master (a title of respect given to males); boss. pa:manginu, Apung Ginu
+    \u2018the Lord (Jesus Christ)\u2019."
+  - "a kind of caroling\u2013the singing of religious songs on the eve of religious/secular
+    feasts such as All Saints Day and the barrio fiesta."
+  - line, stripe.
+  - a kind of rope; craving.
+  - "origin, source; come from. (Prep.) ibat \u2018starting from\u2019. ibatan, pibatan,
+    pa:nibatan."
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - young leaf, shoot (bamboo).
+  - NONE
+  - the underneath-area; depth; (speech) old, fancy, obscure.
+  - "flood. maki-a\u2019lbug."
+  - caress.
+  - NONE
+  - NONE
+  - contest.
+  - NONE
+  - "luklukan \u2018seat, place to sit. pa:maglukluk \u2018sitting\u2019."
+  - "lukswanan-lubid \u2018skip-rope\u2019, luksung-babiq \u2018leap-frog\u2019."
+  - place, location, space.
+  - NONE
+  - house lizard.
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - field (cultivated field).
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - "cock\u2019s -comb."
+  - NONE
+  - fan; see pepe.
+  - NONE
+  - dream (?thing dreamt?); see -ninap.
+  - NONE
+  - medicine; see ulu.
+  - NONE
+  - "1. dove. 2. a \u2018high-flying woman\u2019, i.e. a promiscuous woman."
+  - NONE
+  - perspiration, sweat.
+  - "one peso. mamesus \u2018single peso bills\u2019"
+  - costume, clothes.
+  - "things said; see sabi. pisasa\u2019byan \u2018conversation\u2019."
+  - "kapitangang bengi (kapitnangang bengi)? \u2018midnight\u2019."
+  - "sa:batan \u2018a children\u2019s game consisting of marked zones and teams of
+    players; one set tries to pass from one zone to another without being tagged
+    by the other team; the field on which this game is played\u2019."
+  - all, everyone, everything; see ngan.
+  - clothesline; see sable.
+  - NONE
+  - NONE
+  - "salikutan \u2018hide-n-seek\u2019; pisasalikutan \u2018hide-out\u2019."
+  - NONE
+  - NONE
+  - NONE
+  - "sapal ngungut \u2018grated coconut\u2019."
+  - NONE
+  - a kind of bird, swallow-like, some are blue, some are yellow and black; seen
+    near the rivers.
+  - "strength, capacity, vigor. sikanan \u2018pull, influence\u2019; pampasikan."
+  - "fried rice. sisingle\u2019 \u2018a children\u2019s game: leapfrog\u2019."
+  - NONE
+  - "siping-bale \u2018neighbor\u2019. kasiping \u2018one next to you\u2019."
+  - twilight
+  - NONE
+  - measure, measurement. sukad, susukad, sinukad, pa:sukad
+  - NONE
+  - NONE
+  - "tidtad \u2018a delicacy made of chopped pig intestines\u2019."
+  - success.
+  - NONE
   - 
   verb:
   - makiyabe 'accompany'; mi-yabeyabe ' live together, stay together'
@@ -836,192 +1381,1016 @@ MonoBehaviour:
   - slip, slide. mitalusad.
   - "ta:mpaling \u2018slap face\u2019. timpaling, tampalingan."
   - NONE
-  - 
-  - 
+  - "mangayalbugan\u2019be \u2018flooded regularly\u2019. payalbug, payalbugan, ka-albug."
+  - "payaliq; payalyan \u2018deny\u2019. "
+  - "- mamapi\u2019q \u2018is sparking, is on fire\u2019. "
+  - NONE
+  - NONE
+  - NONE
+  - "laban-asbuk \u2018argue\u2019."
+  - "aslam-an \u2018add vinegar to something\u2019; pan-aslam \u2018use something
+    to sour\u2019."
+  - NONE
+  - NONE
+  - "bagay-an \u2018match something to something else\u2019. "
+  - NONE
+  - "babagyu \u2018a typhoon is blowing\u2019."
+  - NONE
+  - "pabandi \u2018possess, obtain\u2019; pakibandi."
+  - "miba\u2019pa, makiba\u2019pa, a:bapa. "
+  - NONE
+  - NONE
+  - "kakabaq, kakaban \u2018lengthen something\u2019; magpakabaq \u2018stretch self\u2019;
+    pakikabaq; ikabaq; a:kabaq; pakabaq; pakaban; mipakabaq."
+  - NONE
+  - "kakarug \u2018tremble\u2019, kinarug, makikarug, pa:karug, a:pakarug."
+  - swim (primarily refers to the hand stroke). kewe, kewen, ikawe, pa:kawen, pakikawe.
+  - NONE
+  - NONE
+  - "manguku \u2018cut one\u2019s fingernails\u2019; pa:kuku, pakikuku, pa:ngukuan,
+    a:kuku, mipanguku. "
+  - fetch home, escort home; see dalakit.
+  - "dalanan \u2018pass by for someone\u2019. dinalan, pa:dalan, makidalan \u2018pass
+    between others\u2019, pandalan, mandalan, mindalan, idalan, a:dalan, mipadalan,
+    madalanan \u2018made into a passage\u2019. "
+  - involve oneself, sympathize. dadame, diname, makirame, idame, a:karame, miparame,
+    pakirame, maka:rame.
+  - "midara \u2018aunt and niece/nephew\u2019."
+  - "magdase \u2018use a mat\u2019. makidase, pakidase, pa:dasayan, pa:dase. "
+  - NONE
+  - pa:makarine, mi:pakarine, a:karinayan, ke:rinayan
+  - "- crouch, bow, bend. cf. balikuku, baluktut idukuq \u2018bend something\u2019"
+  - NONE
+  - "mangebun \u2018lay eggs\u2019. makapangebun, pa:ebunan. "
+  - NONE
+  - 'maggabun, makigabun, gabunan, ge:bunan. '
+  - "maggamat \u2018eat with hands\u2019. manggamat, pa:gamatan \u2018have someone
+    eat with his hands\u2019."
+  - scratch; plow, rake. gamusan, ge:musan, ginamus, manggamus, makigamus, pakigamus,
+    makapangamus, pa:gamus, a:gamus, pa:ngamus, mipangamus.
+  - NONE
+  - NONE
+  - give. ibie, (i)babye, binye, bibye; mye, munye, makaibye, makibyebye, a:ibye,
+    pa:ibye, mipabye, pamamye, pemamye, pamye, pemye, pakibye.
+  - NONE
+  - "see; see akit. ikit \u2018saw something\u2019; miikitikit \u2018see each other
+    regularly\u2019; pikitan \u2018meet someone\u2019."
+  - "gpitan \u2018tighten something\u2019. manigpit, mangaigpit, makiigpit, pa:igpit,
+    a:igpit, ke:igpit, maipanigpit, kayigpitan."
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - ' manipe, menipe/minipe. '
+  - "remove, delete, detach, eject, send away. ilako \u2018remove something\u2019;
+    le:ko, lakwan \u2018leave someone\u2019; likwan, milako, milako a male-tau \u2018fainted\u2019;
+    pakilako, pa:lakwan."
+  - boil. ilagaq, linagaq.
+  - "appear, come out, bring out or put on (a performance). lage, lalage, ipalage
+    \u2018relax\u2019; pa:lage \u2018opinion\u2019; milage \u2018appeared, presented,
+    served\u2019. "
+  - NONE
+  - NONE
+  - "lasawan \u2018digest something\u2019. "
+  - NONE
+  - "look at; see lon, lalon, lawen. maglawe, lalawe, linawe, lumawe, pa:lawe, lawan
+    \u2018look at something\u2019, lawen, lawenlawen, lon, lalon, pakilon."
+  - NONE
+  - NONE
+  - NONE
+  - ulub, lungub, ilub, pa:luban pakilub.
+  - NONE
+  - NONE
+  - NONE
+  - go home; see uliq
+  - will do what? with something; see nanu.
+  - NONE
+  - NONE
+  - NONE
+  - "papanasan \u2018get covered or infested with ants\u2019."
+  - "sasaliq, sinaliq, saliwan, seliq, manyaliq, mamisaliq, pa:saliq \u2018sell (cause
+    to buy)\u2019, pakisaliq, pisaliq \u2018thing sold\u2019, pisisaliq, misisaliq."
+  - NONE
+  - "paspasan \u2018sponge-bathe, dab something on, whisk\u2019"
+  - "extinguish; see patad. a:patdaq, mitdaq; Patdan me ing radyu. \u2018Turn off
+    the radio\u2019."
+  - 'kill; fight. paten, pete, makapate, pipapaten, makipate. '
+  - 'run. mulai, papulai, milai. '
+  - "putputan \u2018pluck\u2019. pa:putput."
+  - carry on shoulder.
+  - NONE
+  - NONE
+  - (V.) check a trap (for animals, fish).
+  - "susuluq \u2018do something with light\u2019;"
+  - wear (clothes); go under something.
+  - NONE
+  - NONE
+  - 'develope, move forward. susulung, pa:sulungan. '
+  - shining, sunshine.
+  - NONE
+  - go down (stairs).
+  - gather, collect, accumulate.
+  - throw away.
+  - NONE
+  - NONE
+  - NONE
+  - "pag\u2013an \u2018submit something to lawyers\u2019. magqabugadu, see qabugadu."
+  - "man-, pa-\u2018abuse, take unfair advantage\u2019."
+  - "ma:n-alikabuk \u2018raising dust\u2019."
+  - "man-alimpuyuq \u2018put on a fake mole."
+  - NONE
+  - NONE
+  - "mamambun \u2018be about to rain\u2019."
+  - "amuk-an \u2018be bitten by mosquitoes\u2019."
+  - "man-angga \u2018reach as far as, journey to\u2019; mipa-angga; mangayang-ganan."
+  - "mamangin \u2018the wind is blowing\u2019; angin-an, in-angin \u2018held in the
+    wind\u2019; payangin, magpayangin, magpakayangin."
+  - NONE
+  - "arung-an, inarungan \u2018put on airs\u2019."
+  - "asan-an, in-asan, as: nanung inasan yu? \u2018What did you eat with your rice?\u2019."
+  - panaspakan.
+  - escort away from home to another place. mamatad, i (h) atad, paki-atad.
+  - NONE
+  - "bakle, bikle \u2018put something across something else\u2019."
+  - "bagay-an \u2018match something to something else\u2019."
+  - "magpabala\u2019g \u2018drop out\u2019; maka-bala\u2019g \u2018fall accidentally\u2019;
+    manga-bala\u2019g \u2018dropping repeatedly\u2019; pa:-balag \u2018caused to
+    drop\u2019; a:balag \u2018dropped\u2019; a:pabala\u2019g \u2018had an abortion,
+    miscarriage\u2019."
+  - NONE
+  - "magpabanwa \u2018going on one year\u2019"
+  - NONE
+  - "mangnas, mingnas \u2018get stale\u2019."
+  - "babayat \u2018get heavy\u2019. a:bayat, papabayatan \u2018make heavier\u2019,
+    pasimbayatnan."
+  - NONE
+  - NONE
+  - "bulditan \u2018strike in buttocks\u2019; bilditan \u2018struck in buttocks\u2019."
+  - "pa:buluk \u2018allow to become fetid\u2019"
+  - NONE
+  - "shout. bubulyo, mamulyo, pa:mulyo, bulyo\u2019n \u2018shout at someone\u2019,
+    bilyon, mipabulyo, pakibulyo."
+  - " mamuntuk \u2018carry on head\u2019. See puntuk."
+  - "buburakan \u2018put in mud (e.g. balut)\u2019; magburak \u2018play with mud\u2019."
+  - "busbusan \u2018bore, poke hole(s) in\u2019; bisbusan [fig.] \u2018penetrate
+    a virgin\u2019; mamusbus, pa:musbus, a:busbus, ibusbus."
+  - NONE
+  - NONE
+  - ' mangaklak, a:kaklak, apakaklak'
+  - NONE
+  - "alalay-. magkalakalale \u2018be careful\u2019"
+  - NONE
+  - "alalay-. magkalakalale \u2018be careful\u2019"
+  - "- mag-tungkung-kalang \u2018sit or squat with two others, in the same positions
+    as the pot stones\u2019."
+  - swell, be swollen. mangalbag, makikalbag, pa:kalbagan
+  - pa:kaluluq, ke:kaluluq
+  - "kakandutan \u2018pinch with a twisting motion\u2019. kandutandutan, mikandutandutan."
+  - NONE
+  - pa:kanyan, a:kanyan.
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - hate. kisaman, a:kasaman.
+  - "- kakasat \u2018throw a tantrum\u2019. kinasat, magkasat, a:kasat, ke:sat, pa:ngasat,
+    pangakasat."
+  - "- be separated, go separate way. maka:kawaniq [ability], mikawaniq, mika:kawaniq,
+    mipakawaniq, makikawaniq, pakikawaniq, pa:kawaniq, ikawaniq, ke:waniq, pa:ngawaniq;
+    makakawaniq \u2018separated\u2019."
+  - whittle. kayasan, ke:yasan, mangayas, makakayas, pa:kayas, pa:ngayas, a:kayas.
+  - NONE
+  - "kilikan \u2018carry (a baby) on one\u2019s hip\u2019. mangilik, maka:kilik,
+    pakikilik, a:kilik, pangikikan."
+  - wink. mangakirat, pangakirat.
+  - "- cry. kikyak, kumiyak, pa:kyakan \u2018make someone cry\u2019, ma:ngyak, kinyak,
+    a:pakyak, mipakyak."
+  - remove lice.
+  - blink eyes; see kirat. kukurap, magkurap, pa:kurapan, pa:ngurap, a:kurap, makakurap.
+  - a:parakal, ka:rakal, pa:ngarakal, pa:rakalan, miparakal.
+  - catch, apprehend. magdakap, makarakap, manyakap, pakirakap, dakpan, darakpan,
+    pa:nyakap, panyakpan, a:rakap.
+  - NONE
+  - grow big(ger). daragul, dinagul, idagul, mandagul, mindagul, pa:ragul, a:dagul,
+    pandagul, pindagul, pa:ragulan, miparagul.
+  - fetch home, escort home; see dalakit.
+  - pa:ralas/pa:dalas, pandalas, idalas, a:dalas.
+  - "dadalit \u2018sing, chant\u2019. magdalit, makadalit, pakidalit, makidalit,
+    pa:dalit, idalit, a:dalit, de:litan."
+  - "damdaman \u2018hear, listen\u2019. dimdam, makiramdam, pakiramdaman, paramdam,
+    a:ramdam, mangaramdam."
+  - "danupan, dumanup, pa:ranupan \u2018make (pigs) hungry\u2019, mangadanup."
+  - "\u2018should, ought to\u2019."
+  - "dinapuk \u2018put inside\u2019. makapandapuk, pakidapuk, pa:dapuk, pandapuk."
+  - magpadarak.
+  - pa:dikut, makidikut, pakidikut.
+  - "magmarimla \u2018e.g. wear a sweater\u2019. pa:rimlan \u2018chill something\u2019,
+    a:parimla, miparimlan."
+  - NONE
+  - "diritak \u2018become few(er). mangaritak, ke:ritak."
+  - duduldul, ma:nuldul.
+  - makiduluk, pakiduluk, pa:duluk, pa:ndulukan
+  - "dudurut \u2018whirl, spin around\u2019. mandurut, makadurut, pakidurut, makipandurut,
+    pa:durut, a:dudurutan, pa:ndurutan, a:pandurutan, idurut, midurut."
+  - "manyutung \u2018gather firewood\u2019, pa:dutung \u2018have a tree cut\u2019,
+    pa:rutungan \u2018have another gather firewood\u2019, panyutung, panyutungan,
+    makarutung."
+  - "mangambul \u2018cultivate (plants)\u2019. gambulan."
+  - NONE
+  - NONE
+  - NONE
+  - "gawaq, gagawan, ma:ngawaq; ginawaq, gewa, mengawaq; gumawaq, gawan, mangawaq;
+    makagawaq; pa:gawaq; igawaq \u2018make something for someone\u2019."
+  - decorate; dress up fancily. gagayak, igayak (Ben.), maggayak, makigayak, maka:gayak,
+    pa:gayak, a:gayak, pa:ngayak, mangayak.
+  - "gigigit \u2018gnash teeth\u2019."
+  - magginuginuwan, ginwan, pa:ginu, pa:nginuwan, manginu, mangginu
+  - manggosu, maggosu, makipangosu, makapanggosu, papaggosu, papaggosuwan, a:goswan.
+  - "manggulis, maka:gulis, makigulis, pakigulis, igulis, a:gulis, migulisan, pa:ngulisan,
+    gulisan, ginulis \u2018planned, blueprinted, diagramed."
+  - "guyuran \u2018drag something\u2019."
+  - "manibatan, menibatan, pa:nibatan; kaibatibat \u2018just came from\u2019."
+  - '- borrow; see -andam-. mandam, daraman, pa:raman, a:param, iparam, mangaparam.'
+  - ask for [root?]; inyad. cf. anyad, anyawad.
+  - NONE
+  - '- blow air into something. labulan, lalabulan, le:bulan.'
+  - NONE
+  - devour, eat like a pig. laklakan, lalaklakan, liklak.
+  - NONE
+  - "mangayalbugan\u2019be \u2018flooded regularly\u2019. payalbug, payalbugan, ka-albug"
+  - caress.
+  - bend, arch body. pa:lantik.
+  - pinch (a small amount of skin). lepirut.
+  - NONE
+  - NONE
+  - sit, take a seat.
+  - jump. magluksu.
+  - "ilugal \u2018give place to someone\u2019. Milugal"
+  - NONE
+  - NONE
+  - "leave, depart. ma\u2019ko, mamako."
+  - waiting for someone, something; see panayan.
+  - "magmaneu \u2018drive (a vehicle) \u2013 usually meaning to drive for pay\u2019."
+  - ask for [root?]; inyad. cf. anyad, anyawad.
+  - NONE
+  - NONE
+  - burst (a blister or boil); blinking (as, lights which go on and off).
+  - NONE
+  - see nanu.
+  - NONE
+  - NONE
+  - NONE
+  - inform, be informed; see balu.
+  - feed someone; see -kan.
+  - "show; see -kit. Atin kung pa:kit keka. \u2018I have something to show you\u2019;
+    Pa:kit ke keka. \u2018I\u2019ll show it to you\u2019."
+  - NONE
+  - NONE
+  - put something inside
+  - NONE
+  - wait for someone; see manaya.
+  - NONE
+  - look for; see intun.
+  - NONE
+  - sell something; see saliq.
+  - NONE
+  - NONE
+  - manimawas, mangapawasan.
+  - NONE
+  - "piblasan \u2018clothe someone\u2019. pipiblasan, piniblasan. See bablas."
+  - NONE
+  - papitnaq, pitnan, pipitnan.
+  - "sabatan \u2018block, barricade something\u2019."
+  - NONE
+  - NONE
+  - "misakab \u2018fall on face\u2019. makasakab \u2018lying face-down\u2019."
+  - slap.
+  - hide. sa:likut, sinalikut, isalikut, maka-salikut, pa:salikut, mapanyalikut.
+  - defeat, be defeated; see saul, sahul. manyambut, sinambut, simbut, misambut
+  - gulp food.
+  - "sasanting \u2018get nice, become nice\u2019. pa:santingan \u2018beautify\u2019."
+  - NONE
+  - "sapungan \u2018bump something\u2019. manyapung, misapung."
+  - NONE
+  - sisikan, sinikan, pa:sikanan.
+  - NONE
+  - evaporate, steam, ooze. sisingo, siningo, si:ngo.
+  - akasiping, misiping, misisiping.
+  - twilight
+  - help. sasaup, sopan/saupan, sinopan, susopan, a:saup
+  - measure, measurement. sukad, susukad, sinukad, pa:sukad
+  - fly. susulapo, sinulapu, manyulapo, pa:sulapo, a:pasulapo, makasulapo.
+  - taste something. tikman, tinakman, pa:takman, a:takman, tatakman, makatakman,
+    pa:takmanan.
+  - "tatadtad \u2018chop up\u2019; see tabtab. tidtad."
+  - "magtagumpe \u2018succeed\u2019."
+  - erect, build; stand up. tatalakad, te:lakad, ma:nalakad, mitalakad, pa:talakad.
   - 
   adjective:
-  - none
-  - none
+  - NONE
+  - NONE
   - "'mababo\u2018 on top, 'above'; maka-babo 'leading (in election)'; maba'-bo-pa\u2019liq
     \u2018easily angered"
   - "madalumdum \u2018dark, dim'"
-  - none
-  - none
-  - none
-  - none
+  - NONE
+  - NONE
+  - NONE
+  - NONE
   - "magatal \u201Citchy'. megatal, pekamagatal, kagatalan."
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
   qual:
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - usually.
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - " how, in what manner. Makananu reng gamitan? \u2018How are those used?\u2019."
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - '- in a moment, momentarily.'
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
-  - none
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - ussually.
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - just a moment, wait a second.
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - "kaibat \u2018afterwards, then\u2019"
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
   pron:
   - A'be
   - A'but
@@ -1110,8 +2479,268 @@ MonoBehaviour:
   - "talu\u2019sad"
   - tampaling
   - "Tega\u2019wan"
-  - 
-  - 
+  - "a\u2019lbug"
+  - "ali\u2019q"
+  - "api\u2019q "
+  - "apu\u2019 "
+  - "a\u2019re"
+  - "aru\u2019"
+  - "asbu\u2019k"
+  - "asla\u2019m"
+  - awa
+  - "atcu\u2019"
+  - "ba\u2019ge "
+  - "bagu\u2019k"
+  - "ba\u2019gyu "
+  - "bale\u2019"
+  - bandi
+  - "ba\u2019pa"
+  - bibi
+  - bwak
+  - 'length. '
+  - "kari\u2019n"
+  - "ka\u2019rug"
+  - "ka\u2019we "
+  - 'keta '
+  - keti
+  - "kuku\u2019"
+  - "daki\u2019tan"
+  - "da\u2019lan"
+  - "da\u2019me"
+  - "da\u2019ra"
+  - "da\u2019se"
+  - "da\u2019tang"
+  - "di\u2019ne"
+  - "duku\u2019q"
+  - luraq/duraq
+  - "e\u2019bun"
+  - "e\u2019ran"
+  - "gabu\u2019n"
+  - "gama\u2019t "
+  - "ga\u2019mus"
+  - "ga\u2019na "
+  - "gu\u2019lut "
+  - "ibie\u2019/ibye\u2019 [i- + bye/?] "
+  - "ikami\u2019"
+  - "i\u2019kit (-kit/?) "
+  - igpit
+  - ila
+  - ini
+  - 'ing '
+  - "i\u2019pan"
+  - "i\u2019pas"
+  - "i\u2019pe "
+  - "lako\u2019"
+  - 'lagaq '
+  - 'lage '
+  - "la\u2019ngo"
+  - "la\u2019pad"
+  - "lasa\u2019w-/ laso\u2019"
+  - "la\u2019ut/ la\u2019wut "
+  - "la\u2019we"
+  - "la\u2019ya"
+  - lele
+  - " libi\u2019"
+  - ' lub'
+  - "lu\u2019nus "
+  - "lu\u2019pa "
+  - 'mal '
+  - "muli\u2019q "
+  - "na\u2019nan"
+  - "nandi\u2019n"
+  - "na\u2019:pun"
+  - "ni\u2019nu "
+  - "pa\u2019nas"
+  - "sali\u2019q"
+  - "pasbu\u2019l"
+  - paspas
+  - "patda\u2019q"
+  - "pate\u2019 "
+  - "pulai\u2019"
+  - putput
+  - pusan
+  - "sabo\u2019"
+  - "sa\u2019lat"
+  - "silo\u2019"
+  - "sulu\u2019q"
+  - "su\u2019lud"
+  - suldut
+  - "su\u2019put"
+  - sulung
+  - sunlag
+  - 'swam '
+  - "ti\u2019pa "
+  - "ti\u2019pun"
+  - "ugse\u2019"
+  - wa
+  - "wa\u2019nan "
+  - "abuka\u2019du"
+  - "abuga\u2019du"
+  - "abusa\u2019du"
+  - alikabuk
+  - "alimpu\u2019yuq"
+  - alistu
+  - "ama\u2019nu"
+  - ambun
+  - "amu\u2019k"
+  - "a\u2019ngga"
+  - "a\u2019ngin"
+  - "apu\u2019luq"
+  - "a\u2019rung"
+  - "asa\u2019n"
+  - aspak
+  - "ata\u2019d"
+  - "a\u2019wang"
+  - "bakle\u2019"
+  - "ba\u2019ge"
+  - "bala\u2019g"
+  - "bale\u2019n"
+  - "ba\u2019nwa"
+  - "banglu\u2019"
+  - "bangna\u2019s"
+  - "ba\u2019yat"
+  - "biti\u2019s"
+  - "bu\u2019lan"
+  - "buldi\u2019t"
+  - "bulu\u2019k"
+  - "bulu\u2019ng"
+  - "bu\u2019lyo"
+  - "bu\u2019ntuk"
+  - 'burak '
+  - busbus
+  - "bu\u2019tul"
+  - " kaba\u2019sa"
+  - "kakla\u2019k"
+  - "kadwa\u2019q"
+  - "kala\u2019le"
+  - "kala\u2019me"
+  - "kalampa\u2019g"
+  - "kala\u2019ng"
+  - kalbag
+  - "kalu\u2019luq"
+  - kandut-
+  - "kanuwa\u2019n"
+  - "kanya\u2019n"
+  - "kapa\u2019muq"
+  - "kapata\u2019d"
+  - "kapila\u2019n"
+  - kapitnaq
+  - "kare\u2019n"
+  - kasaman
+  - "kasa\u2019t"
+  - "kawa\u2019niq"
+  - "ka\u2019yas"
+  - "kaymi\u2019tu"
+  - "kili\u2019k-"
+  - "kira\u2019t"
+  - "kiya\u2019k/kyak"
+  - "kula\u2019p"
+  - "kura\u2019p"
+  - "daka\u2019l"
+  - "daka\u2019p"
+  - "dagi\u2019s"
+  - "da\u2019gul"
+  - "daki\u2019tan"
+  - "dala\u2019s"
+  - " da\u2019lit"
+  - damdam
+  - "da\u2019nup"
+  - "da\u2019pat"
+  - "da\u2019puk"
+  - "dara\u2019k"
+  - "diku\u2019t"
+  - "di\u2019mla"
+  - "diso\u2019ras"
+  - "di\u2019tak"
+  - "duldu\u2019l"
+  - "dulu\u2019k"
+  - "du\u2019rut"
+  - "du\u2019tung"
+  - "gambu\u2019l-"
+  - "gandu\u2019s"
+  - "gaslo\u2019"
+  - "gata\u2019l"
+  - "gawa\u2019q"
+  - gayak
+  - "gigi\u2019t"
+  - "ginu\u2019"
+  - "go\u2019su"
+  - gulis
+  - "guyu\u2019d"
+  - "iba\u2019t"
+  - indam
+  - inyad
+  - "istu\u2019ng/ ustu\u2019ng"
+  - "la\u2019bul"
+  - "la\u2019bung"
+  - "lakla\u2019k"
+  - "la\u2019lam"
+  - "lalbug/a\u2019lbug/kalbug"
+  - "lambi\u2019s"
+  - "lanti\u2019k"
+  - "lapi\u2019rut"
+  - " ligli\u2019gan"
+  - lilyu
+  - "luklu\u2019k"
+  - "luksu\u2019q"
+  - "luga\u2019l"
+  - "lulu\u2019t"
+  - "lupi\u2019sak"
+  - "mako\u2019"
+  - "mana\u2019ya"
+  - "mane\u2019u"
+  - manyad
+  - "marangle\u2019"
+  - "mapla\u2019s"
+  - mitdas
+  - "nukari\u2019n"
+  - "numa\u2019nu"
+  - nung
+  - "oba\u2019t"
+  - "one\u2019ng"
+  - "paba\u2019lu"
+  - "kana\u2019n"
+  - pa:kit
+  - pagal
+  - palung
+  - "palu\u2019b"
+  - "pame\u2019pe"
+  - "pana\u2019yan"
+  - "pani\u2019nap"
+  - "pani\u2019ntun"
+  - "panu\u2019lu"
+  - "pasalwa\u2019n"
+  - "patipa\u2019ti"
+  - "patlu\u2019d"
+  - "pa\u2019was"
+  - "pe\u2019sus"
+  - piblas
+  - "pisa\u2019bi"
+  - pitna
+  - "sa\u2019bat"
+  - sablaq
+  - "sabla\u2019yan"
+  - "saka\u2019b"
+  - sagapan
+  - "saliku\u2019t"
+  - sambut
+  - samul
+  - "santi\u2019ng"
+  - "sa\u2019pal"
+  - "sa\u2019pung"
+  - sibad
+  - "si\u2019kan"
+  - single
+  - "singo\u2019"
+  - "si\u2019ping"
+  - "si\u2019sili\u2019m"
+  - sopan
+  - "su\u2019kad"
+  - "sula\u2019po"
+  - takman
+  - tadtad
+  - "tagumpe\u2019"
+  - "talaka\u2019d"
   - 
   textTitle: {fileID: 338241850}
   textNoun: {fileID: 242770374}
