@@ -158,8 +158,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -213.54994, y: -863.2}
-  m_SizeDelta: {x: -508.90012, y: 66.4}
+  m_AnchoredPosition: {x: -203.69992, y: -947.3}
+  m_SizeDelta: {x: -489.20013, y: 66.4}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &168236175
 MonoBehaviour:
@@ -194,7 +194,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'qualifier: '
+  m_Text: 'Qualifier: '
 --- !u!222 &168236176
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -237,8 +237,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 253.705, y: -38.6}
-  m_SizeDelta: {x: 343.79, y: 156.3}
+  m_AnchoredPosition: {x: 246.95001, y: -46}
+  m_SizeDelta: {x: 357.3, y: 156.3}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &242770374
 MonoBehaviour:
@@ -478,8 +478,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 223.115, y: -40.3}
-  m_SizeDelta: {x: 298.17, y: 140.41}
+  m_AnchoredPosition: {x: 223.115, y: -46.7}
+  m_SizeDelta: {x: 298.17, y: 95.5}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &641059713
 MonoBehaviour:
@@ -902,7 +902,16 @@ MonoBehaviour:
   - Tadtad
   - Tagumpe
   - Talakad
-  - 
+  - Talagube
+  - Tinape
+  - Tuklu
+  - Tuknang
+  - Tuklip
+  - Tulang
+  - Tulid
+  - Tuling
+  - Tuntun
+  - 'Turan '
   noun:
   - friend, companion {used as a term of address}, kayabe 'companion'
   - none
@@ -1285,7 +1294,19 @@ MonoBehaviour:
   - "tidtad \u2018a delicacy made of chopped pig intestines\u2019."
   - success.
   - NONE
-  - 
+  - "welt(s), bump(s)\u2013from bites of niknik, from cold."
+  - bread.
+  - "manukluan \u2018one who tramples\u2019."
+  - "tuknangan \u2018residence, dwelling\u2019."
+  - NONE
+  - '1. dragonfly. Types: tulang dapu, tulang bale, tulang damulag, tulang kuriyenti,
+    tulang karayum, tulang bitin. 2. small airplanes of the Piper Club type'
+  - "Noun - katulid \u2018opposite, directly across from\u2019; katuliran \u2018rights\u2019;
+    ipagmatulid \u2018a discussion to set things straight\u2019; panuliran \u2018shortcut,
+    the straight, direct way\u2019; pa:magmatulid, matuliranan \u2018verbal contest\u2019."
+  - NONE
+  - NONE
+  - NONE
   verb:
   - makiyabe 'accompany'; mi-yabeyabe ' live together, stay together'
   - '''reach'', ''hand something to someone'''
@@ -1687,7 +1708,19 @@ MonoBehaviour:
   - "tatadtad \u2018chop up\u2019; see tabtab. tidtad."
   - "magtagumpe \u2018succeed\u2019."
   - erect, build; stand up. tatalakad, te:lakad, ma:nalakad, mitalakad, pa:talakad.
-  - 
+  - NONE
+  - NONE
+  - "step on. makatukluq, pangatukluq \u2018just around the corner (near in time)\u2019."
+  - stop, desist; dwell, reside. tuknang, tutuknang, tiknang, manuknangan, tutuknang,
+    menuknangan, tinuknang
+  - fold. ituklip, tuklipan, a:tuklip, pa:tuklip, tiklip.
+  - NONE
+  - "straighten, go straight. tutulid, magmatulid, makimatulid; ma:nulid \u2018go
+    in a straight line (as, from house to house)\u2019."
+  - "manuling \u2018become dark\u2019; magpakatuling \u2018tan oneself\u2019; tutulingan
+    \u2018blacken something\u2019; tulingan, tilingan, pa:tulingan, tutuling."
+  - "tuntuna\u2019n \u2018point the way\u2019; see tulduq."
+  - hit, struck. cf. tud mituran, pa:turan, a:turan.
   adjective:
   - NONE
   - NONE
@@ -1699,6 +1732,15 @@ MonoBehaviour:
   - NONE
   - NONE
   - "magatal \u201Citchy'. megatal, pekamagatal, kagatalan."
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
   - NONE
   - NONE
   - NONE
@@ -2391,6 +2433,15 @@ MonoBehaviour:
   - NONE
   - NONE
   - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
+  - NONE
   pron:
   - A'be
   - A'but
@@ -2741,7 +2792,16 @@ MonoBehaviour:
   - tadtad
   - "tagumpe\u2019"
   - "talaka\u2019d"
-  - 
+  - talagube
+  - "tina\u2019pe"
+  - tuklu
+  - tuknang
+  - tuklip
+  - "tula\u2019ng"
+  - tulid
+  - tuling
+  - tuntun
+  - turan
   textTitle: {fileID: 338241850}
   textNoun: {fileID: 242770374}
   textVerb: {fileID: 1847832754}
@@ -2797,7 +2857,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 33.9, y: 188.6}
+  m_AnchoredPosition: {x: 33.9, y: 145.56}
   m_SizeDelta: {x: 170.9992, y: 80.00647}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &827308608
@@ -2833,7 +2893,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'pron.: '
+  m_Text: 'Pron.: '
 --- !u!222 &827308609
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3009,8 +3069,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -254.33202, y: -465.9}
-  m_SizeDelta: {x: -565.13605, y: 80.0065}
+  m_AnchoredPosition: {x: -246.28188, y: -513.9}
+  m_SizeDelta: {x: -549.0362, y: 80.0065}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &875066243
 MonoBehaviour:
@@ -3045,7 +3105,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'verb: '
+  m_Text: 'Verb: '
 --- !u!222 &875066244
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3448,8 +3508,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -247.33195, y: -239.8}
-  m_SizeDelta: {x: -551.1361, y: 80.0065}
+  m_AnchoredPosition: {x: -246.78195, y: -240.8}
+  m_SizeDelta: {x: -550.0361, y: 111.6}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1808067544
 MonoBehaviour:
@@ -3484,7 +3544,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'noun: '
+  m_Text: "Noun: \n"
 --- !u!222 &1808067545
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3528,8 +3588,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -214.13202, y: -682.7}
-  m_SizeDelta: {x: -484.73596, y: 80.0065}
+  m_AnchoredPosition: {x: -208.98203, y: -835.4}
+  m_SizeDelta: {x: -474.43597, y: 132.8}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1822693286
 MonoBehaviour:
@@ -3564,7 +3624,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'adjective: '
+  m_Text: 'Adjective: '
 --- !u!222 &1822693287
 CanvasRenderer:
   m_ObjectHideFlags: 0
