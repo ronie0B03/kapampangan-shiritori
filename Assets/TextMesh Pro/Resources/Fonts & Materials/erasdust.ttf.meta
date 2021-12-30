@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: df5755d8d37cafc47a6418d3314ad88d
+guid: 3974719e37461da4383acc722f760db0
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -10,8 +10,7 @@ TrueTypeFontImporter:
   includeFontData: 1
   fontNames:
   - EraserDust
-  fallbackFontReferences:
-  - {fileID: 12800000, guid: 3974719e37461da4383acc722f760db0, type: 3}
+  fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
