@@ -1308,6 +1308,7 @@ MonoBehaviour:
   errorText: {fileID: 493476013}
   scoreText: {fileID: 1322860226}
   aiScoreText: {fileID: 338241850}
+  screenTime: {fileID: 987793741}
   wordText: {fileID: 1651082971}
   checkWorkButton: {fileID: 947167312}
 --- !u!4 &741924890
@@ -1491,7 +1492,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.000061035, y: -86}
+  m_AnchoredPosition: {x: 0.000061035156, y: -86}
   m_SizeDelta: {x: -166.15, y: 73.0276}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &987793741
