@@ -13,7 +13,7 @@ public class MainGameController : MonoBehaviour
 
     // public Text errorText, scoreText, aiScoreText;
     public TextMeshProUGUI errorText;
-    public Text scoreText, aiScoreText, screenTime;
+    public Text scoreText, aiScoreText, screenTime, difficultyText;
     public InputField wordText;
     public Button checkWorkButton;
     private string levelSelection, playerName;
@@ -31,6 +31,7 @@ public class MainGameController : MonoBehaviour
         playerName = PlayerPrefs.GetString("PlayerName");
         scoreText.text = $"{playerName}: 0";
         gameTime = (float)gameTimeSelection;
+        difficultyText.text = levelSelection;
     }
 
     // Update is called once per frame
@@ -95,7 +96,7 @@ public class MainGameController : MonoBehaviour
                 easyCounter++;
             }
             else{
-                errorText.text = $"{errorText.text}\n\nNo word found in the list! Please try again.";
+                errorText.text = $"{errorText.text}\nNo word found in the list! Please try again.";
             }
         }
 
@@ -174,7 +175,7 @@ public class MainGameController : MonoBehaviour
 
                 bonusCounter = 1;
                 int wordLength = aiWord.Length;
-                int tempScore = wordLength * bonusCounter
+                int tempScore = wordLength * bonusCounter;
                 aiScore = tempScore + aiScore;
                 aiScoreText.text = $"AI: {aiScore.ToString()}";
                 currentWord = aiWord;
@@ -217,6 +218,7 @@ public class MainGameController : MonoBehaviour
                 aiScore = tempScore + aiScore;
                 aiScoreText.text = $"AI: {aiScore.ToString()}";
                 currentWord = aiWord;
+                string currentCharacter = aiWord[currentWordLength].ToString();
                 errorText.text = $"{errorText.text}\n+{tempScore}\t{aiWord}\t{currentCharacter}";
                 currentWordLength = currentWord.Length;
                 currentWordLength -=1;
@@ -255,6 +257,7 @@ public class MainGameController : MonoBehaviour
                 aiScore = tempScore + aiScore;
                 aiScoreText.text = $"AI: {aiScore.ToString()}";
                 currentWord = aiWord;
+                string currentCharacter = aiWord[currentWordLength].ToString();
                 errorText.text = $"{errorText.text}\n+{tempScore}\t{aiWord}\t{currentCharacter}";
                 currentWordLength = currentWord.Length;
                 currentWordLength -=1;
