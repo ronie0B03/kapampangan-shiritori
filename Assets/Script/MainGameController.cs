@@ -136,10 +136,11 @@ public class MainGameController : MonoBehaviour
     public void ScoreWord(int bonusCounter, string _wordText){
         int wordLength = _wordText.Length;
         string lastCharacter = _wordText[wordLength-1].ToString();
-        score = (wordLength * bonusCounter)+score;
+        int tempScore = wordLength * bonusCounter;
+        score = tempScore+score;
         scoreText.text = $"{playerName}: {score.ToString()}";
         // errorText.text = $"{errorText.text}\n\n {playerName}: {_wordText}";
-        errorText.text = $"{errorText.text}\n\n+{score}\t {_wordText} \t{lastCharacter}";
+        errorText.text = $"{errorText.text}\n\n+{tempScore}\t {_wordText} \t{lastCharacter}";
         currentWord = _wordText;
     }
 
@@ -173,13 +174,14 @@ public class MainGameController : MonoBehaviour
 
                 bonusCounter = 1;
                 int wordLength = aiWord.Length;
-                aiScore = (wordLength * bonusCounter)+aiScore;
+                int tempScore = wordLength * bonusCounter
+                aiScore = tempScore + aiScore;
                 aiScoreText.text = $"AI: {aiScore.ToString()}";
                 currentWord = aiWord;
                 currentWordLength = currentWord.Length;
                 currentWordLength -=1;
                 string currentCharacter = aiWord[currentWordLength].ToString();
-                errorText.text = $"{errorText.text}\n+{aiScore}\t{aiWord}\t{currentCharacter}";
+                errorText.text = $"{errorText.text}\n+{tempScore}\t{aiWord}\t{currentCharacter}";
             }
         }
 
@@ -211,10 +213,11 @@ public class MainGameController : MonoBehaviour
 
                 bonusCounter = 2;
                 int wordLength = aiWord.Length;
-                aiScore = (wordLength * bonusCounter)+aiScore;
+                int tempScore = wordLength * bonusCounter;
+                aiScore = tempScore + aiScore;
                 aiScoreText.text = $"AI: {aiScore.ToString()}";
                 currentWord = aiWord;
-                errorText.text = $"{errorText.text}\n\n AI: {aiWord}";
+                errorText.text = $"{errorText.text}\n+{tempScore}\t{aiWord}\t{currentCharacter}";
                 currentWordLength = currentWord.Length;
                 currentWordLength -=1;
             }
@@ -248,10 +251,11 @@ public class MainGameController : MonoBehaviour
 
                 bonusCounter = 3;
                 int wordLength = aiWord.Length;
-                aiScore = (wordLength * bonusCounter)+aiScore;
+                int tempScore = wordLength * bonusCounter;
+                aiScore = tempScore + aiScore;
                 aiScoreText.text = $"AI: {aiScore.ToString()}";
                 currentWord = aiWord;
-                errorText.text = $"{errorText.text}\n\n AI: {aiWord}";
+                errorText.text = $"{errorText.text}\n+{tempScore}\t{aiWord}\t{currentCharacter}";
                 currentWordLength = currentWord.Length;
                 currentWordLength -=1;
             }
