@@ -11,6 +11,8 @@ public class MainGameController : MonoBehaviour
     public string[] mediumLevel = {"abukadu", "abugadu","abusadu","alikabuk"};
     public string[] hardLevel = {"abak", "abe","abut","abyas"};
 
+    public AudioSource checkWord;
+
     // public Text errorText, scoreText, aiScoreText;
     public TextMeshProUGUI errorText;
     public Text scoreText, aiScoreText, screenTime, difficultyText;
@@ -71,6 +73,7 @@ public class MainGameController : MonoBehaviour
     }
 
     public void CheckWord(){
+        checkWord.Play();
         string _wordText;
         _wordText = wordText.text.ToString();
         _wordText.ToLower();
@@ -135,6 +138,7 @@ public class MainGameController : MonoBehaviour
 
     //Add Method for Dry approach
     public void ScoreWord(int bonusCounter, string _wordText){
+        checkWord.Play();
         int wordLength = _wordText.Length;
         string lastCharacter = _wordText[wordLength-1].ToString();
         int tempScore = wordLength * bonusCounter;
@@ -143,6 +147,7 @@ public class MainGameController : MonoBehaviour
         // errorText.text = $"{errorText.text}\n\n {playerName}: {_wordText}";
         errorText.text = $"{errorText.text}\n\n+{tempScore}\t {_wordText} \t{lastCharacter}";
         currentWord = _wordText;
+        wordText.text = "";
     }
 
     public void AIChooseLevel(){

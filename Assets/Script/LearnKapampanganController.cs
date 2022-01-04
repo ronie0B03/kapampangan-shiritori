@@ -14,6 +14,9 @@ public class LearnKapampanganController : MonoBehaviour
     public string[] pron = {};
 
     public Text textTitle, textNoun, textVerb, textAdjective, textQual, textPron;
+
+    public AudioSource nextPageLKW, backButton;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -27,6 +30,7 @@ public class LearnKapampanganController : MonoBehaviour
     }
 
     public void nextWord(){
+        nextPageLKW.Play();
         int _length = title.Length-1;
         int i = Random.Range(0, title.Length);
         textTitle.text = title[i].ToString();
@@ -38,6 +42,7 @@ public class LearnKapampanganController : MonoBehaviour
     }
 
     public void back(){
+        backButton.Play();
         SceneManager.LoadScene("MainMenu");
     }
 }

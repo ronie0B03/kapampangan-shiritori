@@ -10,6 +10,8 @@ public class UIController : MonoBehaviour
     public Text playerName;
     public Button confirmPlayerName, easyButton, mediumButton, hardButton, _60Button, _90Button, _120Button, proceedGameButton;
 
+    public AudioSource clickSound;
+
     private int levelSelectCounter = 0, gameTimeSelectCounter = 0;
     // Start is called before the first frame update
     void Start()
@@ -42,11 +44,13 @@ public class UIController : MonoBehaviour
     {
         HideAllScreen();
         menuOptionsScreen.SetActive(true);
+        clickSound.Play();
     }
 
     public void SinglePlayerScreen(){
         HideAllScreen();
         playerNameScreen.SetActive(true);
+        clickSound.Play();
     }
 
     public void ConfirmPlayerName(){
@@ -55,20 +59,24 @@ public class UIController : MonoBehaviour
         PlayerPrefs.SetString("PlayerName",_playerName);
         HideAllScreen();
         levelSelectionScreen.SetActive(true);
+        clickSound.Play();
     }
 
     public void InitiateQuitScreen(){
         HideAllScreen();
         quitScreen.SetActive(true);
+        clickSound.Play();
     }
 
     public void DeInitiateQuitScreen(){
         HideAllScreen();
         menuOptionsScreen.SetActive(true);
+        clickSound.Play();
     }    
 
     public void QuitApplication(){
         Application.Quit();
+        clickSound.Play();
     }
 
     void HideAllScreen(){
@@ -78,10 +86,12 @@ public class UIController : MonoBehaviour
         playerNameScreen.SetActive(false);
         levelSelectionScreen.SetActive(false);
          proceedText.SetActive(false);
+         clickSound.Play();
     }
 
     //Level Selection
     public void SelectLevel(){
+        clickSound.Play();
         Debug.Log(PlayerPrefs.GetString("LevelSelection"));
         levelSelectCounter = 1;
         easyButton.interactable = true;
@@ -100,6 +110,7 @@ public class UIController : MonoBehaviour
 
     //Set Game Time
     public void SetGameTime(){
+        clickSound.Play();
         Debug.Log(PlayerPrefs.GetInt("GameTimeSelection"));
         gameTimeSelectCounter = 1;
         _60Button.interactable = true;
@@ -123,22 +134,26 @@ public class UIController : MonoBehaviour
     
     //Proceed Game
     public void ProceedGame(){
+        clickSound.Play();
         HideAllScreen();
         proceedText.SetActive(true);
         Invoke("LoadMainGame",2f);
     }
 
     private void LoadMainGame(){
+        clickSound.Play();
         SceneManager.LoadScene("MainGame");
     }
 
     public void ProceedLearnShitori(){
+        clickSound.Play();
         HideAllScreen();
         proceedText.SetActive(true);
         Invoke("LoadLearnShitori",2f);
     }
 
     private void LoadLearnShitori(){
+        clickSound.Play();
         SceneManager.LoadScene("LearnKapampangan");
     }
 
