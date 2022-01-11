@@ -32,7 +32,8 @@ public class MainGameController : MonoBehaviour
         gameTimeSelection = PlayerPrefs.GetInt("GameTimeSelection");
         playerName = PlayerPrefs.GetString("PlayerName");
         scoreText.text = $"{playerName}: 0";
-        gameTime = (float)gameTimeSelection;
+        // gameTime = (float)gameTimeSelection;
+        gameTime = 10f;
         difficultyText.text = levelSelection;
     }
 
@@ -70,8 +71,11 @@ public class MainGameController : MonoBehaviour
             if(_userGameOverScore > _aiGameOverScore){
                 errorText.text = $"Game over! Time has run out! {playerName} wins!";
             }
-            else{
+            else if(_userGameOverScore < _aiGameOverScore){
                 errorText.text = $"Game over! Time has run out! AI wins!";
+            }
+            else{
+                errorText.text = $"Game over! Time has run out! It is a tie!";
             }
             wordText.interactable = false;
             checkWorkButton.interactable = false;
