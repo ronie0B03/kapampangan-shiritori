@@ -142,7 +142,8 @@ public class UIController : MonoBehaviour
 
     private void LoadMainGame(){
         clickSound.Play();
-        SceneManager.LoadScene("MainGame");
+        // SceneManager.LoadScene("MainGame");
+        SceneManager.LoadScene("HowToPlay");
     }
 
     public void ProceedLearnShitori(){

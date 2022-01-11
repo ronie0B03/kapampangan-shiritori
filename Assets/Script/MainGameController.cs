@@ -65,7 +65,14 @@ public class MainGameController : MonoBehaviour
             screenTime.text = newGameTime.ToString();
         }
         else{
-            errorText.text = $"Game over! Time has run out!";
+            int _userGameOverScore = score;
+            int _aiGameOverScore = aiScore;
+            if(_userGameOverScore > _aiGameOverScore){
+                errorText.text = $"Game over! Time has run out! {playerName} wins!";
+            }
+            else{
+                errorText.text = $"Game over! Time has run out! AI wins!";
+            }
             wordText.interactable = false;
             checkWorkButton.interactable = false;
         }
@@ -105,7 +112,14 @@ public class MainGameController : MonoBehaviour
 
         //Medium
         if(levelSelection == "Medium"){
-            if(mediumLevel.Contains(_wordText)){
+            if(easyLevel.Contains(_wordText))
+            {
+                easyLevel = easyLevel.Where(val => val != _wordText).ToArray();
+                ScoreWord(1, _wordText);
+                AIChooseLevel();
+                easyCounter++;
+            }            
+            else if(mediumLevel.Contains(_wordText)){
                 mediumLevel = mediumLevel.Where(val => val != _wordText).ToArray();
                 ScoreWord(2, _wordText);
                 AIChooseLevel();
@@ -124,6 +138,19 @@ public class MainGameController : MonoBehaviour
 
         //Hard
         if(levelSelection == "Hard"){
+            if(easyLevel.Contains(_wordText))
+            {
+                easyLevel = easyLevel.Where(val => val != _wordText).ToArray();
+                ScoreWord(1, _wordText);
+                AIChooseLevel();
+                easyCounter++;
+            }            
+            else if(mediumLevel.Contains(_wordText)){
+                mediumLevel = mediumLevel.Where(val => val != _wordText).ToArray();
+                ScoreWord(2, _wordText);
+                AIChooseLevel();
+                easyCounter++;
+            }            
             if(hardLevel.Contains(_wordText)){
                 hardLevel = hardLevel.Where(val => val != _wordText).ToArray();
                 ScoreWord(3, _wordText);
