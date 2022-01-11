@@ -32,8 +32,8 @@ public class MainGameController : MonoBehaviour
         gameTimeSelection = PlayerPrefs.GetInt("GameTimeSelection");
         playerName = PlayerPrefs.GetString("PlayerName");
         scoreText.text = $"{playerName}: 0";
-        // gameTime = (float)gameTimeSelection;
-        gameTime = 10f;
+        gameTime = (float)gameTimeSelection;
+        // gameTime = 10f;
         difficultyText.text = levelSelection;
     }
 
