@@ -155,7 +155,7 @@ public class MainGameController : MonoBehaviour
                 AIChooseLevel();
                 easyCounter++;
             }            
-            if(hardLevel.Contains(_wordText)){
+            else if(hardLevel.Contains(_wordText)){
                 hardLevel = hardLevel.Where(val => val != _wordText).ToArray();
                 ScoreWord(3, _wordText);
                 AIChooseLevel();
