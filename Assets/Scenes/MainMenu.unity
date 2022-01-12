@@ -690,7 +690,7 @@ AudioSource:
   m_GameObject: {fileID: 493090786}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: a49d4bb39b79fb14a96ab2b0846089db, type: 2}
   m_audioClip: {fileID: 8300000, guid: eed11f74ab0f9f546b19104ab031b2c3, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -4380,7 +4380,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1684384774}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 741924891}
+        m_TargetAssemblyTypeName: UIController, Assembly-CSharp
+        m_MethodName: goToSettings
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1684384774
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5365,7 +5377,7 @@ AudioSource:
   m_GameObject: {fileID: 1980839377}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: a49d4bb39b79fb14a96ab2b0846089db, type: 2}
   m_audioClip: {fileID: 8300000, guid: 670441cbd4424754faa79cb34af71d5d, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1

@@ -158,4 +158,16 @@ public class UIController : MonoBehaviour
         SceneManager.LoadScene("LearnKapampangan");
     }
 
+    public void goToSettings(){
+        clickSound.Play();
+        HideAllScreen();
+        proceedText.SetActive(true);
+        Invoke("LoadSettings",1f);
+    }
+
+    private void LoadSettings(){
+        clickSound.Play();
+        SceneManager.LoadScene("Settings");
+    }
+
 }
